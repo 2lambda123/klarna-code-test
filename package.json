@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "chai": "^4.1.2",
-    "enzo-codestyle": "^5.1.0",
+    "enzo-codestyle": "^7.0.1",
     "eslint": "^4.14.0",
     "mocha": "^4.0.1",
     "nyc": "^11.4.1"
